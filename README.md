@@ -1,5 +1,5 @@
 ﻿# Toduni
-This is the beggining of a new project from te community to the community where you can save all records of help and social service you want, if you want to help us you are welcome.
+This is the begining of a new project from te community to the community where you can save all records of help and social service you want, if you want to help us you are welcome.
 
 At first: TODUNI is a project which has the objective to promote collaboration and citizenship in Mexico. It will also document the goodness created by the civil society in our community to have a repository of creative self organized citizen teams.
 
